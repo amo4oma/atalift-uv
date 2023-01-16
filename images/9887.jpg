@@ -1,0 +1,832 @@
+
+
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>My WordPress Site &#8211; Just another WordPress site</title>
+<meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="My Wordpress Site &raquo; Feed" href="https://astalift.appurr.xyz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="My Wordpress Site &raquo; Comments Feed" href="https://astalift.appurr.xyz/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/astalift.appurr.xyz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://astalift.appurr.xyz/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-style-css'  href='https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/style.css?ver=5.6.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyseventeen-ie8-css'  href='https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/assets/css/ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"https://astalift.appurr.xyz/wp-admin/admin-ajax.php",
+				"nonce": "098cfe860f",
+				"home_url": "https://astalift.appurr.xyz"
+			};
+			/* ]]\> */
+		</script>
+		<!--[if lt IE 9]>
+<script type='text/javascript' src='https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/assets/js/html5.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://astalift.appurr.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://astalift.appurr.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://astalift.appurr.xyz/wp-json/" /><link rel="alternate" type="application/json" href="https://astalift.appurr.xyz/wp-json/wp/v2/pages/446" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://astalift.appurr.xyz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://astalift.appurr.xyz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.2" />
+<link rel="canonical" href="https://astalift.appurr.xyz/" />
+<link rel='shortlink' href='https://astalift.appurr.xyz/' />
+<link rel="alternate" type="application/json+oembed" href="https://astalift.appurr.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fastalift.appurr.xyz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://astalift.appurr.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fastalift.appurr.xyz%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.core.min.css" integrity="sha512-YQlbvfX5C6Ym6fTUSZ9GZpyB3F92hmQAZTO5YjciedwAaGRI9ccNs4iw2QTCJiSPheUQZomZKHQtuwbHkA9lgw==" crossorigin="anonymous" />
+<style type="text/css">
+@font-face { font-family: Bodoni; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Bodoni72-Bold.ttf); font-weight: bold; }
+@font-face { font-family: FSElliotPro; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/FSElliotPro-Regular.otf); font-weight: 400; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-VariableFont_wght.ttf); font-weight: 300; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-VariableFont_wght.ttf); font-weight: 400; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-Medium.ttf); font-weight: 500; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-VariableFont_wght.ttf); font-weight: 600; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-VariableFont_wght.ttf); font-weight: bold; }
+@font-face { font-family: Mulish; src: url(https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/fonts/Mulish-VariableFont_wght.ttf); font-weight: 800; }
+</style>
+<style type="text/css"></style>
+<style type="text/css"></style>
+<style type="text/css"></style>
+<link rel="stylesheet" type="text/css" href="https://astalift.appurr.xyz/wp-content/themes/twentyseventeen/includes/astaliftlandingpage.css">
+
+
+<main>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        new Glide('#sbha-carousel-reviews', {
+            type: 'slider',
+            startAt: 0,
+            perView: 1,
+            focusAt: 'center',
+            gap: 50,
+        }).mount();
+
+        new Glide('.section-related-products-container-mobile-carousel', {
+            type: 'slider',
+            startAt: 0,
+            perView: 1,
+            focusAt: 'center',
+            gap: 30
+        }).mount();
+
+        const comparisonImages = document.getElementsByClassName('prod-comparison-image');
+        if (comparisonImages) {
+            const delay = Math.round(Math.random() * (500 - 50)) + 50;
+
+            Array.from(comparisonImages).forEach(function(element) {
+                const target = element;
+                setTimeout(function() {
+                    target.src = target.getAttribute("data-src");
+                }, delay);
+            });
+        }
+
+        var scrollOffset = jQuery('.page-section')[0].offsetTop + 5;
+        jQuery(window).scroll(function() {
+            const scrollDistance = jQuery(window).scrollTop();
+
+            // Assign active class to nav links while scolling
+            jQuery('.page-section').each(function(i) {
+                if ((jQuery(this).position().top - scrollOffset) <= scrollDistance) {
+                    jQuery('.header-button').removeClass('active');
+                    jQuery('.header-button').eq(i).addClass('active');
+                }
+            });
+        }).scroll();
+    });
+
+    function onClickHamburger(e) {
+        if (e) {
+            e.preventDefault();
+        }
+
+        const hamburgerIcon = document.getElementsByClassName('hamburger-icon');
+        if (hamburgerIcon && hamburgerIcon.length > 0) {
+            if (hamburgerIcon[0].className.includes('open')) {
+                hamburgerIcon[0].className = hamburgerIcon[0].className.replace(' open', '');
+            } else {
+                hamburgerIcon[0].className += ' open';
+            }
+        }
+
+        const headerContentMobile = document.getElementsByClassName('header-content-small');
+        if (headerContentMobile && headerContentMobile.length > 0) {
+            if (headerContentMobile[0].className.includes('open')) {
+                headerContentMobile[0].className = headerContentMobile[0].className.replace(' open', '');
+            } else {
+                headerContentMobile[0].className += ' open';
+            }
+        }
+    }
+
+    function onClickMenu(e) {
+        if (e.stopPropagation) {
+            e.stopPropagation();
+        } else {
+            window.event.cancelBubble = true;
+        }
+        e.preventDefault();
+
+
+        const hamburgerIcon = document.getElementsByClassName('hamburger-icon');
+        if (hamburgerIcon && hamburgerIcon.length > 0) {
+            hamburgerIcon[0].className = hamburgerIcon[0].className.replace(' open', '');
+        }
+
+        const headerContentMobile = document.getElementsByClassName('header-content-small');
+        if (headerContentMobile && headerContentMobile.length > 0) {
+            headerContentMobile[0].className = headerContentMobile[0].className.replace(' open', '');
+        }
+
+        const sectionId = e.currentTarget.getAttribute('data-src');
+
+        const section = document.getElementById(sectionId);
+        if (section) {
+            section.scrollIntoView({
+                behaviour: 'smooth'
+            });
+        }
+    }
+
+    function onClickTabItem(e) {
+        const tabItems = document.getElementsByClassName('steps-tab-item');
+        for (let i = 0; i < tabItems.length; i++) {
+            tabItems[i].className = tabItems[i].className.replace(' active', '');
+        }
+        e.currentTarget.className += ' active';
+
+        const tabContents = document.getElementsByClassName('steps-content-container');
+        for (let i = 0; i < tabContents.length; i++) {
+            tabContents[i].className = tabContents[i].className.replace(' active', '');
+        }
+
+        const tabContent = document.getElementById(e.currentTarget.getAttribute('data-tab'));
+        tabContent.className += ' active';
+    }
+
+    function onClickFAQItem(e) {
+        const item = e.currentTarget;
+        const answerContainers = item.getElementsByClassName('faq-answer-container');
+        if (answerContainers.length > 0) {
+            const answerContainer = answerContainers[0];
+            if (answerContainer.style.maxHeight) {
+                answerContainer.style.maxHeight = null;
+            } else {
+                answerContainer.style.maxHeight = answerContainer.scrollHeight + "px";
+            }
+        }
+
+        const decorationIcons = item.getElementsByClassName('faq-decoration-icon');
+        if (decorationIcons.length > 0) {
+            const decorationIcon = decorationIcons[0];
+            if (decorationIcon.className.includes('active')) {
+                decorationIcon.className = decorationIcon.className.replace(' active', '');
+            } else {
+                decorationIcon.className += ' active';
+            }
+        }
+
+        const indicatorIcons = item.getElementsByClassName('faq-indicator-icon');
+        if (indicatorIcons.length > 0) {
+            const indicatorIcon = indicatorIcons[0];
+            if (indicatorIcon.className.includes('active')) {
+                indicatorIcon.className = indicatorIcon.className.replace(' active', '');
+            } else {
+                indicatorIcon.className += ' active';
+            }
+        }
+    }
+    </script>
+
+    <header>
+
+        <div class="header-astalift">
+            <div style="height: 100%;" class="section-container">
+                <div class="header-astalift-content">
+                    <div class="header-image-container">
+                        <img class="header-image" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/astalift_logo-1.png" alt="" /></div>
+                    <div class="header-separator"></div>
+                    <div class="header-content-big">
+                        <ul class="header-links-content">
+                            <li>
+                                <a id="header-button-section-hero" class="header-button active" data-src="section-hero"
+                                    href="#section-hero" onclick="onClickMenu(event)">
+                                    <p class="header-button-text">Stretchable UV</p>
+                                    <div class="header-button-indicator"></div>
+                                </a>
+                            </li>
+                            <li>
+                                <a id="header-button-section-features" class="header-button" data-src="section-features"
+                                    href="#section-features" onclick="onClickMenu(event)">
+                                    <p class="header-button-text">Features</p>
+                                    <div class="header-button-indicator"></div>
+                                </a>
+                            </li>
+                            <li>
+                                <a id="header-button-section-application" class="header-button"
+                                    data-src="section-application" href="#section-application"
+                                    onclick="onClickMenu(event)">
+                                    <p class="header-button-text">Application</p>
+                                    <div class="header-button-indicator"></div>
+                                </a>
+                            </li>
+                            <li>
+                                <a id="header-button-section-get-sample" class="header-button"
+                                    data-src="section-get-sample" href="#section-get-sample"
+                                    onclick="onClickMenu(event)">
+                                    <p class="header-button-text">Get Sample</p>
+                                    <div class="header-button-indicator"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="header-astalift-burger-small">
+                        <button type="button" class="header-hamburger-button" onclick="onClickHamburger(event)">
+                            <div class="hamburger-icon">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-content-small">
+            <div style="position: relative;">
+                <ul class="header-links-content">
+                    <li>
+                        <a class="header-button active" data-src="section-hero" href="#section-hero"
+                            onclick="onClickMenu(event)">
+                            <p class="header-button-text">Stretchable UV</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a id="header-button-section-features" class="header-button" data-src="section-features"
+                            href="#section-features" onclick="onClickMenu(event)">
+                            <p class="header-button-text">Features</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a id="header-button-section-application" class="header-button" data-src="section-application"
+                            href="#section-application" onclick="onClickMenu(event)">
+                            <p class="header-button-text">Application</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a id="header-button-section-get-sample" class="header-button last"
+                            data-src="section-get-sample" href="#section-get-sample" onclick="onClickMenu(event)">
+                            <p class="header-button-text">Get Sample</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="header-astalift-placeholder"></div>
+
+    
+    <section class="section-home page-section" id="section-hero">
+        <div class="banner-img-container">
+            <img class="banner-img" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/hero_banner_background.gif" alt="" />            <img class="banner-img-medium" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/hero_banner_background_tablet.gif" alt="" />            <img class="banner-img-small" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/hero_banner_background_mobile.gif" alt="" />        </div>
+        <div class="banner-text-wrapper">
+            <div class="section-container banner-text-section-container">
+                <div class="banner-text-filler-container"></div>
+                <div class="banner-text-parent-container">
+                    <div style="flex: 1;"></div>
+                    <div class="banner-text-container">
+                        <h1 class="text-h1">Feels Naked All Day</h1>                        <p class="banner-text-subtitle">SPF 50+ PA+++</p>                        <p class="banner-text-secondary-subtitle">Stretchable UV Protection</p>                                                <div>
+                            <p class="banner-text-content">
+                                <span class="duv-clear-text-highlight-wrapper"><span class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_red-1.png" alt="D-UV CLEAR" /></span></span> White Solution
+Airy-light texture sunscreen with deep Stretchable
+UV protection against UVA and UVB
+that lasts all day long.                            </p>
+                        </div>
+
+                                                <a class="sbha-button button-primary banner-text-button" href="https://www.astalift.com.sg/product/astalift-d-uv-clear-white-solution" target="_blank">Shop now</a>                                                <div class="banner-social-container">
+                            <a class="sbha-button banner-social-button" href="hhttps://www.facebook.com/AstaliftSingapore" ><img src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/facebook_icon.png" alt="" /></a><a class="sbha-button banner-social-button" href="https://www.instagram.com/astaliftsg" ><img src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/instagram_icon.png" alt="" /></a><a class="sbha-button banner-social-button" href="https://www.youtube.com/channel/UC6WwJOo0m530yFIK3Zevq0A" ><img src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/youtube_icon.png" alt="" /></a>                        </div>
+                                            </div>
+                    <div style="flex: 1;"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <section class="section-prod-comparison">
+        <div class="section-prod-comparison-wrapper">
+            <div class="section-container">
+                <h2 class="text-h1 section-prod-comparison-title">Don’t let your confidence seep through the cracks.</h2>                <div class="section-prod-comparison-container">
+                                        <div class="prod-comparison-container">
+                        <p class="prod-comparison-name">Normal sunscreens</p>
+                        <div class="prod-comparison-image-container"><img class="prod-comparison-image" data-src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/skin_comparison_competitor_cream.gif" alt="" /></div>
+                        <p class="prod-comparison-content">Crack with facial movements, allowing harmful UVA and UVB rays to penetrate and damage your skin.</p>
+                    </div>
+                                        <div class="prod-comparison-container">
+                        <p class="prod-comparison-name">D-UV Clear White</p>
+                        <div class="prod-comparison-image-container"><img class="prod-comparison-image" data-src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/skin_comparison_astalift_cream.gif" alt="" /></div>
+                        <p class="prod-comparison-content">Contains Stretchable UV Protection  that gives you protection that doesn’t  crack, chap or smudge all day long.</p>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </section>
+        <section id="section-features" class="section-prod-details page-section">
+        <div class="prod-details-container">
+            <img class="prod-details-background-image" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_background_bubbles.jpg" alt="" />            <img class="prod-details-background-image-small" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_details_background_mobile.jpg" alt="" />            <div class="prod-details-wrapper">
+                <div class="section-container">
+                    <div class="prod-details-item-container">
+                        <h2 class="prod-details-item-title">
+                            <span class="duv-clear-text-highlight-wrapper"><div class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_red-1.png" alt="D-UV CLEAR" /></div></span> White Solution sun protection for brighter, smoother skin.                        </h2>
+                        <p class="prod-details-item-description">
+                            Formulated with deep-sea micro algae and scutellaria  herb extract to whiten and brighten your skin.</p>
+                        <a class="sbha-button button-primary banner-text-button" href="https://www.astalift.com.sg/product/astalift-d-uv-clear-white-solution" target="_blank">Shop now</a>                    </div>
+                </div>
+            </div>
+            <div class="prod-details-background-blur"></div>
+            <img class="prod-details-product-image-small" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_mobile.png" alt="" />        </div>
+        <div class="section-container">
+                        <div class="prod-details-features-wrapper">
+                                <div class="prod-details-features-container">
+                    <img class="prod-details-features-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/feature_1.png" alt="" />                    <div class="prod-details-features-content">
+                        <h3 class="prod-details-features-content-title">Stretchable UV Protection                        </h3>
+                        <p class="prod-details-features-content-description">
+                            Lasting UV Protection that stretches with your facial movements all day long without cracking, protecting you from harmful UV penetration.</p>
+                    </div>
+                </div>
+                                <div class="prod-details-features-container">
+                    <img class="prod-details-features-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/feature_2.png" alt="" />                    <div class="prod-details-features-content">
+                        <h3 class="prod-details-features-content-title">Reapplication Over Makeup                        </h3>
+                        <p class="prod-details-features-content-description">
+                            Ultra-light textured cream allows for reapplication of sunscreen while keeping makeup intact, and without clogging pores.</p>
+                    </div>
+                </div>
+                                <div class="prod-details-features-container">
+                    <img class="prod-details-features-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/feature_3.png" alt="" />                    <div class="prod-details-features-content">
+                        <h3 class="prod-details-features-content-title">Oil-Free Formula                        </h3>
+                        <p class="prod-details-features-content-description">
+                            Ultra airy-light texture formula that is easily absorbed without leaving a shiny look or greasy after-feel, that looks naked on your face all day long.</p>
+                    </div>
+                </div>
+                            </div>
+                                    <div class="prod-details-other-features-wrapper">
+                <h3 class="prod-details-other-features-title">Other Features</h3>
+                <div class="prod-details-other-features-items-wrapper">
+                                        <div class="prod-details-other-features-items-container">
+                        <img class="prod-details-other-features-item-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/other_features_1.png" alt="" />                        <h4 class="prod-details-other-features-item-title">
+                            Water & Sweat Resistant</h4>
+                        <p class="prod-details-other-features-item-description">
+                            Stays on all-day-long, and doesn’t fade or smudge with water or sweat.</p>
+                    </div>
+                                        <div class="prod-details-other-features-items-container">
+                        <img class="prod-details-other-features-item-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/other_features_2.png" alt="" />                        <h4 class="prod-details-other-features-item-title">
+                            Protection & Brightening</h4>
+                        <p class="prod-details-other-features-item-description">
+                            Deep protection with anti-aging, brightening and brightening properties.</p>
+                    </div>
+                                        <div class="prod-details-other-features-items-container">
+                        <img class="prod-details-other-features-item-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/other_features_3.png" alt="" />                        <h4 class="prod-details-other-features-item-title">
+                            UV Sensory Cap</h4>
+                        <p class="prod-details-other-features-item-description">
+                            Cap turns purple when UV is detected, reminding you to reapply.</p>
+                    </div>
+                                    </div>
+            </div>
+                    </div>
+    </section>
+        <section id="section-application" class="section-steps page-section">
+        <div class="section-container">
+            <h2 class="section-steps-title">How To Use</h2>            <div>
+                <div class="steps-content-wrapper">
+                                        <div id="steps-tab-content-1"
+                        class="steps-content-container active">
+                        <img class="steps-content-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/step_1.gif" alt="" />                        <p class="steps-content-text">Take a pea-sized amount of sunscreen onto your palm.</p>
+                    </div>
+                                        <div id="steps-tab-content-2"
+                        class="steps-content-container ">
+                        <img class="steps-content-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/step_2.gif" alt="" />                        <p class="steps-content-text">Use fingertips to dot on forehead, cheeks, and chin.</p>
+                    </div>
+                                        <div id="steps-tab-content-3"
+                        class="steps-content-container ">
+                        <img class="steps-content-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/step_3.gif" alt="" />                        <p class="steps-content-text">Smooth evenly over entire face to ensure full coverage.</p>
+                    </div>
+                                        <div id="steps-tab-content-4"
+                        class="steps-content-container ">
+                        <img class="steps-content-img" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/step_4.gif" alt="" />                        <p class="steps-content-text">Wait for the sunscreen to set before applying makeup. Reapply the sunscreen if needed.</p>
+                    </div>
+                                    </div>
+                <div class="steps-tab-wrapper">
+                    <div class="steps-tab-shadow-main"></div>
+                    <div class="steps-tab-container">
+                                                <div id="steps-tab-item-1"
+                            data-tab="steps-tab-content-1"
+                            class="steps-tab-item active"
+                            onclick="onClickTabItem(event)">
+                            <p>Step 1</p>
+                        </div>
+                                                <div id="steps-tab-item-2"
+                            data-tab="steps-tab-content-2"
+                            class="steps-tab-item "
+                            onclick="onClickTabItem(event)">
+                            <p>Step 2</p>
+                        </div>
+                                                <div id="steps-tab-item-3"
+                            data-tab="steps-tab-content-3"
+                            class="steps-tab-item "
+                            onclick="onClickTabItem(event)">
+                            <p>Step 3</p>
+                        </div>
+                                                <div id="steps-tab-item-4"
+                            data-tab="steps-tab-content-4"
+                            class="steps-tab-item "
+                            onclick="onClickTabItem(event)">
+                            <p>Step 4</p>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+            <section class="section-product-selection">
+        <img class="section-product-selection-background-image" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/background_bubbles_long.jpg" alt="" />        <div class="section-container">
+            <div class="section-product-selection-wrapper">
+                <div>
+                    <h2 class="section-product-selection-title">Take Your Pick                    </h2>
+                    <div class="section-product-selections-container">
+                                                <div class="section-product-selection-item">
+                            <img class="product-selection-item-details-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_duv_clear_white_solution.png" alt="" />                            <div class="product-selection-item-details-title-container-small">
+                                <h3 class="product-selection-item-details-title">
+                                    Perfect for<br />
+Pigmented or Dull skin</h3>
+                                <p class="product-selection-item-details-subtitle">
+                                    <span style="height: 16px; margin-right: 2px;" class="duv-clear-text-highlight-wrapper"><span class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_black-1.png" alt="D-UV CLEAR" /></span></span> White Solution                                </p>
+                            </div>
+                            <div
+                                class="product-selection-item-details-container left">
+                                <div class="product-selection-item-details-title-container-big">
+                                    <h3 class="product-selection-item-details-title">
+                                        Perfect for<br />
+Pigmented or Dull skin</h3>
+                                    <p class="product-selection-item-details-subtitle">
+                                        <span style="height: 16px; margin-right: 2px;" class="duv-clear-text-highlight-wrapper"><span class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_black-1.png" alt="D-UV CLEAR" /></span></span> White Solution                                    </p>
+                                </div>
+                                                                <div class="product-selection-item-details-feature-wrapper">
+                                    <img class="product-selection-item-details-image-small" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/duv_clear_white_solution_mobile.png" alt="" />                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            Brightens & clarifies skin</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            Infused with whitening ingredients and Vitamin C to brighten and even out complexion</p>
+                                                                                <hr class="product-selection-item-details-feature-separator" />
+                                                                            </div>
+                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            Stretchable texture</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            New formula with ultra-light texture that doesn’t crack with facial expressions, while giving deep UV protection</p>
+                                                                                <hr class="product-selection-item-details-feature-separator" />
+                                                                            </div>
+                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            D-UV Guard+</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            Deep UV protection all day long even against the longest UVA wavelength</p>
+                                                                            </div>
+                                                                    </div>
+                                                                <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/astalift-d-uv-clear-white-solution" target="_blank">Buy now</a>                            </div>
+                        </div>
+                                                <div class="section-product-selection-item">
+                            <img class="product-selection-item-details-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_duv_clear_aqua_serum.png" alt="" />                            <div class="product-selection-item-details-title-container-small">
+                                <h3 class="product-selection-item-details-title">
+                                    Perfect for<br />
+Dry or Wrinkled Skin</h3>
+                                <p class="product-selection-item-details-subtitle">
+                                    <span style="height: 16px; margin-right: 2px;" class="duv-clear-text-highlight-wrapper"><span class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_black-1.png" alt="D-UV CLEAR" /></span></span> Aqua Day Serum                                </p>
+                            </div>
+                            <div
+                                class="product-selection-item-details-container right">
+                                <div class="product-selection-item-details-title-container-big">
+                                    <h3 class="product-selection-item-details-title">
+                                        Perfect for<br />
+Dry or Wrinkled Skin</h3>
+                                    <p class="product-selection-item-details-subtitle">
+                                        <span style="height: 16px; margin-right: 2px;" class="duv-clear-text-highlight-wrapper"><span class="duv-clear-text-highlight-container"><img class="duv-clear-text-highlight-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/tag_duv_clear_white-1.png" alt="D-UV CLEAR" /></span></span> Aqua Day Serum                                    </p>
+                                </div>
+                                                                <div class="product-selection-item-details-feature-wrapper">
+                                    <img class="product-selection-item-details-image-small" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/duv_clear_aqua_day_serum_mobile.png" alt="" />                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            Hydrates & firms skin</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            Infused with hydrating ingredients and super antioxidants to protect skin from dehydration and aging</p>
+                                                                                <hr class="product-selection-item-details-feature-separator" />
+                                                                            </div>
+                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            Lasting moisturisation</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            Refreshing dewy texture that moisturises and hydrates extensively throughout the day</p>
+                                                                                <hr class="product-selection-item-details-feature-separator" />
+                                                                            </div>
+                                                                        <div class="product-selection-item-details-feature-container">
+                                        <p class="product-selection-item-details-feature-title">
+                                            D-UV Guard</p>
+                                        <p class="product-selection-item-details-feature-content">
+                                            Moisturises and protects against even the longest UVA wavelength all day long</p>
+                                                                            </div>
+                                                                    </div>
+                                                                <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/d-uv-clear-aqua-day-serum-spf-50-pa-30g" target="_blank">Buy now</a>                            </div>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <hr class="section-product-selection-separator" />
+        <div class="section-container">
+            <h2 class="section-related-products-title">You may also like</h2>
+                        <div class="section-related-products-container">
+                                <div class="prod-related-products-item-container">
+                    <div class="prod-related-products-item-image-container">
+                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_1.png" alt="" />                    </div>
+                    <p class="prod-related-products-item-title">
+                        Twin D-UV Clear WH Supplement Set                    </p>
+                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/twin-d-uv-clear-wh-supplement-set" target="_blank">Buy now</a>                </div>
+                                <div class="prod-related-products-item-container">
+                    <div class="prod-related-products-item-image-container">
+                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_2.png" alt="" />                    </div>
+                    <p class="prod-related-products-item-title">
+                        Pure Collagen Drink 10,000mg
+30ml x 10btls                    </p>
+                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/pure-collagen-drink-10000mg-30ml-x-10btls-2-for-79" target="_blank">Buy now</a>                </div>
+                                <div class="prod-related-products-item-container">
+                    <div class="prod-related-products-item-image-container">
+                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_3.jpg" alt="" />                    </div>
+                    <p class="prod-related-products-item-title">
+                        Renewal Jelly Aquarysta T 40g | 60g | Refill                    </p>
+                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/renewal-jelly-aquarysta-t" target="_blank">Buy now</a>                </div>
+                                <div class="prod-related-products-item-container">
+                    <div class="prod-related-products-item-image-container">
+                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_4.jpg" alt="" />                    </div>
+                    <p class="prod-related-products-item-title">
+                        In-Focus Cellactive Serum 30ml (Refill) | 30ml                    </p>
+                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/in-focus-cellactive-serum" target="_blank">Buy now</a>                </div>
+                            </div>
+            <div class="section-related-products-container-mobile-carousel">
+                <div class="section-related-products-mobile-wrapper">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides sbha-carousel">
+                                                        <li id="sbha-related-products-carousel__slide2" tabindex="0"                                class="glide__slide">
+                                <div class="prod-related-products-item-container">
+                                    <div class="prod-related-products-item-image-container">
+                                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_1.png" alt="" />                                    </div>
+                                    <p class="prod-related-products-item-title">
+                                        Twin D-UV Clear WH Supplement Set                                    </p>
+                                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/twin-d-uv-clear-wh-supplement-set" target="_blank">Buy now</a>                                </div>
+                            </li>
+                                                        <li id="sbha-related-products-carousel__slide2" tabindex="0"                                class="glide__slide">
+                                <div class="prod-related-products-item-container">
+                                    <div class="prod-related-products-item-image-container">
+                                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_2.png" alt="" />                                    </div>
+                                    <p class="prod-related-products-item-title">
+                                        Pure Collagen Drink 10,000mg
+30ml x 10btls                                    </p>
+                                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/pure-collagen-drink-10000mg-30ml-x-10btls-2-for-79" target="_blank">Buy now</a>                                </div>
+                            </li>
+                                                        <li id="sbha-related-products-carousel__slide2" tabindex="0"                                class="glide__slide">
+                                <div class="prod-related-products-item-container">
+                                    <div class="prod-related-products-item-image-container">
+                                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_3.jpg" alt="" />                                    </div>
+                                    <p class="prod-related-products-item-title">
+                                        Renewal Jelly Aquarysta T 40g | 60g | Refill                                    </p>
+                                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/renewal-jelly-aquarysta-t" target="_blank">Buy now</a>                                </div>
+                            </li>
+                                                        <li id="sbha-related-products-carousel__slide2" tabindex="0"                                class="glide__slide">
+                                <div class="prod-related-products-item-container">
+                                    <div class="prod-related-products-item-image-container">
+                                        <img class="prod-related-products-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/related_products_4.jpg" alt="" />                                    </div>
+                                    <p class="prod-related-products-item-title">
+                                        In-Focus Cellactive Serum 30ml (Refill) | 30ml                                    </p>
+                                    <a class="sbha-button button-primary" href="https://www.astalift.com.sg/product/in-focus-cellactive-serum" target="_blank">Buy now</a>                                </div>
+                            </li>
+                                                    </ul>
+                        <div class="glide__arrows sbha-carousel-arrows" data-glide-el="controls">
+                            <button class="glide__arrow glide__arrow--left sbha-carousel-arrow-button back"
+                                data-glide-dir="<">
+                                <img class="sbha-carousel__back-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_related_carousel_arrow_back_mobile.png" alt="" />                            </button>
+                            <button class="glide__arrow glide__arrow--right sbha-carousel-arrow-button next"
+                                data-glide-dir=">">
+                                <img class="sbha-carousel__next-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/product_related_carousel_arrow_forward_mobile.png" alt="" />                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </section>
+            <section class="section-reviews-container">
+        <div class="section-container">
+            <h2 class="section-reviews-title">Reviews</h2>
+            <div>
+                <div id="sbha-carousel-reviews" class="sbha-carousel">
+                    <div class="sbha-carousel-items-wrapper">
+                        <div class="glide__track" data-glide-el="track">
+                            <ul class="glide__slides sbha-carousel">
+                                                                <li id="sbha-reviews-carousel__slide0" tabindex="0"                                    class="glide__slide">
+                                    <div class="section-review-item-content-container">
+                                        <div class="section-review-item-content-text-wrapper">
+                                            <p class="section-review-item-content-text">
+                                                Been using ASTALIFT D-UV Clear White Solution (SPF50+/PA++++) for one month and I’m so in love with it! I always use it as a makeup base as it resists sweat and sebum!! So I can use it whenever I go gym! What I love the most about the sunscreen is its “UV Sensory Cap”, which changes its color when exposed to UV rays. It’s a great way to remind me when to re-apply it!                                            </p>
+                                            <div class="section-review-item-content-text-spacer"></div>
+                                            <p class="section-review-item-content-author">
+                                                @b1gqing                                            </p>
+                                        </div>
+                                        <div class="section-review-item-content-image-container">
+                                            <div class="section-review-item-content-image-wrapper">
+                                                                                                <div class="section-review-item-content-image-video-wrapper">
+                                                    <img class="section-review-item-content-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_b1gqing.jpg" alt="" />                                                                                                    </div>
+                                                                                            </div>
+                                            <div class="section-review-item-content-image-backdrop"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                <li id="sbha-reviews-carousel__slide1" tabindex="0"                                    class="glide__slide">
+                                    <div class="section-review-item-content-container">
+                                        <div class="section-review-item-content-text-wrapper">
+                                            <p class="section-review-item-content-text">
+                                                Nothing looks better in your fifties than sunscreen in your twenties. That’s why we should never leave home without sunscreen. DUV Clear Aqua Day Serum is not just a sunscreen which blocks longest wavelength of UVA. It is also day moisturizer rich that contains starfruit extract which helps to prevent dehydration of the skin.                                            </p>
+                                            <div class="section-review-item-content-text-spacer"></div>
+                                            <p class="section-review-item-content-author">
+                                                @zoeraymondtan                                            </p>
+                                        </div>
+                                        <div class="section-review-item-content-image-container">
+                                            <div class="section-review-item-content-image-wrapper">
+                                                                                                <div class="section-review-item-content-image-video-wrapper">
+                                                    <img class="section-review-item-content-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_zoeraymondtan.jpg" alt="" />                                                                                                    </div>
+                                                                                            </div>
+                                            <div class="section-review-item-content-image-backdrop"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                <li id="sbha-reviews-carousel__slide2" tabindex="0"                                    class="glide__slide">
+                                    <div class="section-review-item-content-container">
+                                        <div class="section-review-item-content-text-wrapper">
+                                            <p class="section-review-item-content-text">
+                                                Lightweight, hydrating, and best of all, it blocks even the LONGESTTTT WAVELENGTH OF UVA that causes skin damages like dehydration, pigmentation & pre-mature aging. It works perfectly well as a makeup primer too, leaving my face looking healthy and glowy. It can also be applied over makeup without disrupting your look due to its light texture so no worries if you need a touch up after a long day under the sun.                                            </p>
+                                            <div class="section-review-item-content-text-spacer"></div>
+                                            <p class="section-review-item-content-author">
+                                                @hayleywoo                                            </p>
+                                        </div>
+                                        <div class="section-review-item-content-image-container">
+                                            <div class="section-review-item-content-image-wrapper">
+                                                                                                <div class="section-review-item-content-image-video-wrapper">
+                                                    <img class="section-review-item-content-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_hayleywoojiayi.jpg" alt="" />                                                                                                    </div>
+                                                                                            </div>
+                                            <div class="section-review-item-content-image-backdrop"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                <li id="sbha-reviews-carousel__slide3" tabindex="0"                                    class="glide__slide">
+                                    <div class="section-review-item-content-container">
+                                        <div class="section-review-item-content-text-wrapper">
+                                            <p class="section-review-item-content-text">
+                                                Here I'm using the Astalift White Perfect UV Clear Solution with SPF50+ PA++++ over my make up (when I forget to apply it first), but usually I love to use it as a make up essence because it preps my skin better for my foundation. Applying it over make up doesn't smudge your make up as long as you're gentle with it and apply it with the right motions. It also has a non-sticky texture, quick to apply and is easily absorbed by the skin, and it makes me feel assured that I'm well-protected from the harmful UV rays. One of the cool features about the Astalift White Perfect UV Clear Solution is that its sensor cap turns purple when it detects UV rays, acting as a sun alert, alerting you to top up your sunblock!                                            </p>
+                                            <div class="section-review-item-content-text-spacer"></div>
+                                            <p class="section-review-item-content-author">
+                                                @pxdkitty                                            </p>
+                                        </div>
+                                        <div class="section-review-item-content-image-container">
+                                            <div class="section-review-item-content-image-wrapper">
+                                                                                                <div class="section-review-item-content-image-video-wrapper">
+                                                    <img class="section-review-item-content-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_pxdkitty.jpg" alt="" />                                                                                                    </div>
+                                                                                            </div>
+                                            <div class="section-review-item-content-image-backdrop"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                            </ul>
+                        </div>
+                        <div class="glide__arrows sbha-carousel-arrows reviews-carousel-arrows"
+                            data-glide-el="controls">
+                            <button class="glide__arrow glide__arrow--left sbha-carousel-arrow-button back"
+                                data-glide-dir="<">
+                                <img class="sbha-carousel__back-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_carousel_arrow_back.png" alt="" />                            </button>
+                            <button class="glide__arrow glide__arrow--right sbha-carousel-arrow-button next"
+                                data-glide-dir=">">
+                                <img class="sbha-carousel__next-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_carousel_arrow_next.png" alt="" />                            </button>
+                        </div>
+                    </div>
+                    <div class="glide__bullets section-review-carousel-bullets-container" data-glide-el="controls[nav]">
+                                                <button class="section-review-carousel-bullet-item" data-glide-dir="=0">
+                            <img class="section-review-carousel-bullet-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_b1gqing.jpg" alt="" />                        </button>
+                                                <button class="section-review-carousel-bullet-item" data-glide-dir="=1">
+                            <img class="section-review-carousel-bullet-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_zoeraymondtan.jpg" alt="" />                        </button>
+                                                <button class="section-review-carousel-bullet-item" data-glide-dir="=2">
+                            <img class="section-review-carousel-bullet-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_hayleywoojiayi.jpg" alt="" />                        </button>
+                                                <button class="section-review-carousel-bullet-item" data-glide-dir="=3">
+                            <img class="section-review-carousel-bullet-item-image" src="https://astalift.appurr.xyz/wp-content/uploads/2021/03/reviews_pxdkitty.jpg" alt="" />                        </button>
+                                            </div>
+                </div>
+            </div>
+    </section>
+        <section id="section-get-sample" class="section-form-cta page-section">
+        <div class="section-form-cta-wrapper">
+            <img class="section-form-cta-background-image" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/background_cta_form.jpg" alt="" />            <img class="section-form-cta-background-image-small" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/cta_form_background_mobile.jpg" alt="" />            <div class="section-container section-form-cta-layout-item">
+                <div class="section-form-cta-layout-item left"></div>
+                <div class="section-form-cta-layout-item right">
+                    <div class="section-form-cta-container">
+                        <div>
+                            <input class="section-form-cta-input" placeholder="First Name" />
+                            <input class="section-form-cta-input" placeholder="Last Name" />
+                            <input class="section-form-cta-input" placeholder="Email Name" />
+                            <input class="section-form-cta-input" placeholder="Phone Name" />
+                            <input class="section-form-cta-input" placeholder="Address" />
+                            <div class="section-form-cta-button-container">
+                                <button
+                                    class="sbha-button button-primary section-form-cta-button">Get Your Free Sample                                </button>
+                            </div>
+                            <p class="section-form-cta-footer-policy">
+                                By clicking ‘Get Your Free Sample’ above, your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our privacy policy.                            </p>
+                        </div>
+                        <img class="section-form-cta-image section-form-cta-image-top-right" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/form_cta_ring_icon.png" alt="" />                    </div>
+                </div>
+                <img class="section-form-cta-image section-form-cta-image-bottom-left" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/form_cta_ring_icon.png" alt="" />            </div>
+        </div>
+    </section>
+        <section class="section-faq-container">
+        <section class="section-container">
+            <h2 class="section-faq-title">FAQs</h2>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">Can D-UV Clear Aqua Day Serum be used as a makeup base?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">Yes, it is an excellent makeup base thanks to its light analyzing technology that complements your look, and brightens skin. It’s uniquely resistant to water, sweat and sebum, making it suitable for both indoor and outdoor use.</p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">What makes Astalift D-UV Clear sunscreens so different from normal sunscreens?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">Unlike normal sunscreens that only provide limited protection against UVA and UVB, D-UV Clear Aqua Day Serum provides optimal broad-spectrum protection against UVB and even the longest UVA wavelength that can penetrate and damage the deepest layers of your skin.</p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">How does D-UV Clear Aqua Day Serum help with anti-aging?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">D-UV Clear Aqua Day Serum is specifically formulated to protect your skin against accelerated moisture loss from UV exposure. It also contains super antioxidants and moisture-boosting ingredients that make you look younger, all while keeping your skin hydrated all day long. </p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">Is D-UV Clear Aqua Day Serum suitable for me?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">D-UV Clear Aqua Day is a high performance, multi-functional sunscreen that is recommended for all skin types. It provides broad-spectrum UV protection with all-day skin hydration, has anti-aging properties, and feels light, dewy and comfortable on any skin type.</p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">What is the difference between D-UV Clear White Solution and D-UV Aqua Day Serum?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">D-UV Clear White Solution contains the newly formulated D-UV Guard+ that doesn’t crack with facial expressions, all while brightening, clarifying and protecting your skin from UV thanks to its whitening ingredients and Vitamin C. On the other hand, D-UV Aqua Day Serum firms up and protects your skin from dehydration all day long, all while protecting your skin from UV.</p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">Can I use both D-UV Clear White Solution and D-UV Aqua Day Serum at the same time?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">Both sunscreens give you comprehensive protection on their own. But at your liking, you can use the D-UV Clear White Solution when going outdoors to enhance brightening and reduce skin redness, and the D-UV Aqua Day Serum when indoors to protect from deep UVA rays that can penetrate windows and curtains.</p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                        <div class="faq-container" onclick="onClickFAQItem(event)">
+                <div class="faq-question-container">
+                    <p class="faq-question">Do I need to use a makeup remover to cleanse D-UV Clear sunscreens from my face?</p>
+                    <img class="faq-indicator-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_indicator.png" alt="" />                </div>
+                <div class="faq-answer-container">
+                    <p class="faq-answer">No. A mild daily cleanser (i.e Moisture Foam/Fibre Foam) will adequately remove the sunscreen from your face. A makeup remover is required only if you are also wearing makeup with your sunscreen. </p>
+                </div>
+                <img class="faq-decoration-icon" src=https://astalift.appurr.xyz/wp-content/uploads/2021/03/faq_decoration_bubble.png" alt="" />            </div>
+                    </section>
+    </section>
+    
